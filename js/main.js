@@ -25,6 +25,7 @@ let slider = [
     }
 ];
 
+
 // selected elements image
 const title  = document.querySelector(".title");
 const img    = document.querySelector(".img");

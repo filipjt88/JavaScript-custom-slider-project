@@ -59,4 +59,11 @@ img {
     .offset-2 {
         margin-left: 0;
     }
+
+    .arrows {
+        display: flex;
+        justify-content: space-between;
+        position: relative;
+        top: -150px;
+    }
 }
