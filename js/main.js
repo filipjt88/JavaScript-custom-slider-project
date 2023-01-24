@@ -26,9 +26,9 @@ let slider = [
 ];
 
 // selected elements image
-const title         = document.querySelector(".title");
-const img           = document.querySelector(".img");
-const info          = document.querySelector(".info");
+const title  = document.querySelector(".title");
+const img    = document.querySelector(".img");
+const info   = document.querySelector(".info");
 
 // selected arrows and button
 const prevBtn     = document.querySelector(".prev-btn");
